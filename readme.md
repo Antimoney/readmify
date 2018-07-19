@@ -20,7 +20,10 @@ Readmify是一种代码风格标准,可以适用于包括但不限于C,C++,JavaS
 问题列表:
   - 文件开头和代码框开头有猎奇的`/*`
   - [ ] 英文文档
-  - 文言文文档
+  - 文言文文档 (本人语文很烂,尤其是文言文)
   - [ ] go在编译时拓展名如果是md就编译不了
   - [ ] 实现自动化,即`readmify.exe --code test1.cxx --doc test1.txt`然后就输出了结合后的test1.md
   - [ ] 实现"Readmify IDE"
+
+## License
+本人一向的风格,公有领域,The Unlicense
